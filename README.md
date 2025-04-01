@@ -26,6 +26,6 @@ Machine Learning Libraries: Scikit-Learn, NumPy, Pandas
 
 Data Visualization: Matplotlib, Seaborn
 
-Web Framework (if applicable): Flask
+Web Framework: Flask
 
-Model Deployment (if applicable): Streamlit or Flask API
+Model Deployment: Streamlit or Flask API
